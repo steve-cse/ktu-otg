@@ -69,11 +69,11 @@ export default function RootLayout({
             <p>
               Powered by{" "}
               <a
-                href="https://www.bytecron.me/"
+                href="https://nextjs.org/"
                 target="_blank"
                 className="underline"
               >
-                Bytecron
+                Next.js
               </a>
             </p>
           </footer>
